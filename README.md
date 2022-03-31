@@ -10,10 +10,10 @@ After cloning or forking the repository, you can run the program through the com
 1. You will want to `cd` into the repository
 2. Compile the `compress.cpp` file along with all of the `cpp` helper files to use the compress portion of the Huffman Coding
    - An example of this would be `g++ compress.cpp helper_files/*.cpp -o compress`
-       * It is recommend to name the executable created so you do not confuse yourself with the *uncompress* executable
+       * It is recommend to name the executable created so you do not confuse yourself with the `uncompress` executable
 3. Compile the `uncompress.cpp` file along with all of the `cpp` helper files to use the uncompress portion of the Huffman Coding
    - An example of this would be `g++ uncompress.cpp helper_files/*.cpp -o uncompress`
-       * It is recommend to name the executable created so you do not confuse yourself with the *compress* executable
+       * It is recommend to name the executable created so you do not confuse yourself with the `compress` executable
 
 ## Execution
 Example text files have been given for you to use, but feel free to use your own if desired.
