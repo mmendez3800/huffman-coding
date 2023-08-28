@@ -29,3 +29,6 @@ To uncompress a text file, you will want to run the executable created when comp
 From there, enter the input file and desired name of output file as additional arguments when running the executable.
 * The general format will be `./uncompress input_file output_file`
 * An example of this will be `./uncompress compress_result.txt uncompress_result.txt`
+
+## Output
+![Output of Huffman Coding program](images/huffman.png)
